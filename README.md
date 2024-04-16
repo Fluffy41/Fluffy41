@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706&random=false&width=435&lines=Hello+i'm+Fluffy!)](https://git.io/typing-svg)
 
-🎓 Hello, i'm a young programmer from Germany for Web Designs, Web Development.
+🎓 Hello, i'm a young programmer from Austria for Web Designs, Web Development.
 
 ## 🖥️ My PC
 
