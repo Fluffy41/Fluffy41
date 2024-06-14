@@ -8,10 +8,17 @@
 ![rtx-4070 TI](https://img.shields.io/badge/NVIDIA-RTX%204070%20TI-green?style=for-the-badge&logo=nvidia&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🔗 My Accounts
+## 🔗 My Private Account
 
 ![discord](https://img.shields.io/badge/Discord-fluffy41-blue?style=for-the-badge&logo=discord&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fluffy41&theme=dark&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy41&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🔗 My Work Account
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flfl-work&theme=dark&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flfl-work&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
