@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F706&random=false&width=435&lines=Hello+i'm+Fluffy!)](https://git.io/typing-svg)
 
-🎓 Hello, i'm a young programmer from Austria for Web Designs, Web Development.
+🎓 Hello, i'm a programmer from Austria for Web Designs, Web Development.
 
 ## 🖥️ My PC
 
@@ -15,10 +15,3 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fluffy41&theme=dark&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fluffy41&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## 🔗 My Work Account
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flfl-work&theme=dark&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flfl-work&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
