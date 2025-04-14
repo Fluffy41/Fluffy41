@@ -14,4 +14,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fluffy41&theme=dark&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://wakatime.com/share/@Fluffy/0b7034e7-ded6-4686-b6c6-a0d47939501f.svg)
+![Top Langs](https://wakatime.com/share/@Fluffy/64b77759-d072-4ad2-a4e7-b65bcb723a37.svg)
